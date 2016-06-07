@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +46,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+typings
+**/app/**/*.js
+**/app/**/*.map
+node_modules
+jspm_packages
+bower_components
+
+.vs
+**/*.sou
+**/*.user
+bin
+obj
+packages
+>>>>>>> 30117057d5787b6a3b64fa72c896596d58a962a7
